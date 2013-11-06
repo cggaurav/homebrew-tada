@@ -3,7 +3,7 @@ require 'formula'
 class Tada < Formula
   homepage 'https://github.com/cggaurav/tadaa'
   url 'https://github.com/cggaurav/homebrew-tada/archive/1.0.tar.gz'
-  sha1 '3c50f503a96f9a4fba6b4264bf281e397d13e869'
+  sha1 '50734dcdf869f8a19b32781cf686dd13b7e90f5b'
   version '1.0'
   depends_on 'commander' => :ruby
 
